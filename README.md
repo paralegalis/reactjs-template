@@ -67,7 +67,7 @@ VITE ready in 275 ms
 ➜  Local:   https://localhost:5173/reactjs-template
 ➜  Network: https://192.168.0.1:5173/reactjs-template
 ➜  press h + enter to show help
-```
+``` 
 
 To open the application, you need to copy the `Network`
 link (`https://192.168.0.1:5173/reactjs-template` in this example) and choose one of the following:
